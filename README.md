@@ -1,3 +1,3 @@
-# Java_Project
+# Movies RAting
 # sa
 # sa
