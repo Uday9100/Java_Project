@@ -1,3 +1,3 @@
-# Movies RAting
+# Movies Rating
 # sa
 # sa
